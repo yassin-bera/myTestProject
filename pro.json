@@ -1,0 +1,69 @@
+{
+    "item" : [
+        {
+            "id" : "1",
+            "title" : "pants1",
+            "price" : "20$",
+             "image" : "../assets/p1.jpg"
+        },
+        {
+            "id" : "2",
+            "title" : "pants2",
+            "price" : "40$",
+             "image" : "../assets/p2.jpg"
+        },
+        {
+            "id" : "3",
+            "title" : "pants3",
+            "price" : "25$",
+             "image" : "../assets/p3.jpg"
+        },
+        {
+            "id" : "4",
+            "title" : "watch1",
+            "price" : "100$",
+             "image" : "../assets/w1.jpg"
+        },
+        {
+            "id" : "5",
+            "title" : "watch2",
+            "price" : "120$",
+             "image" : "../assets/w2.jpg"
+        },  
+        {
+            "id" : "6",
+            "title" : "watch3",
+            "price" : "140$",
+             "image" : "../assets/w3.jpg"
+        },
+        {
+            "id" : "7",
+            "title" : "watch4",
+            "price" : "160$",
+             "image" : "../assets/w4.jpg"
+        },
+        {
+            "id" : "8",
+            "title" : "tShirt1",
+            "price" : "2$",
+             "image" : "../assets/t1.jpg"
+        },
+        {
+            "id" : "9",
+            "title" : "tShirt2",
+            "price" : "3$",
+             "image" : "../assets/t2.jpg"
+        },
+        {
+            "id" : "10",
+            "title" : "tShirt3",
+            "price" : "4$",
+             "image" : "../assets/t3.jpg"
+        }
+
+
+
+
+
+    ]
+}
